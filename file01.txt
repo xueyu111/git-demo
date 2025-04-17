@@ -1,0 +1,6 @@
+
+$ git commit -m "add file01"
+[master (root-commit) e69f4ff] add file01
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 file01.txt
+
